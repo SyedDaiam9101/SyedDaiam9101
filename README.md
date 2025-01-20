@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Daim!
+- 👀 I’m interested in coding languages such as Python, and C++ and looking forward to strengthening my roots in machine learning
+- 🌱 I’m currently learning Computer Science    
+- 💞️ I’m looking to collaborate on organization on based software and became an software engineer
+- 📫 How to reach me smdaiam616@gmail.com
+- 😄 Pronouns: Knowledge Seeker
