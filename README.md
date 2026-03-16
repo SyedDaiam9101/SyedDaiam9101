@@ -1,22 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Syed%20Muhammad%20Daiam&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=40&desc=14%20·%20Systems%20Engineer%20·%20AI%20%26%20Privacy%20Builder%20·%20Karachi%20🇵🇰&descAlignY=62&descSize=17&descColor=9d87d4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:001a00&height=160&section=header&text=DAIAM&fontSize=80&fontColor=39ff14&animation=fadeIn&fontAlignY=65&desc=&descAlignY=85&descSize=15&descColor=00cc44" />
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=9D87D4&background=00000000&center=true&vCenter=true&width=750&lines=Zero-Knowledge+Proofs+in+Rust.+At+14.;gRPC+microservices+for+robot+path+planning.;YOLOv8+%C2%B7+ONNX+%C2%B7+FastAPI+%C2%B7+Cryptography.;Age+is+metadata.+Code+either+works+or+it+doesn't." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=750&lines=Zero-Knowledge+Proofs+in+Rust.+At+14.+From+Karachi.;The+code+doesn't+care+how+old+you+are.;Building+systems+most+engineers+won't+touch.;Currently+online.+Always+building." />
 
 <br/><br/>
 
-<a href="https://x.com/SyedDaiam">
-  <img src="https://img.shields.io/badge/𝕏%20Follow%20@SyedDaiam-0a0a0f?style=for-the-badge&logo=x&logoColor=e0d7ff&labelColor=1a0533" />
-</a>
+[![X](https://img.shields.io/badge/𝕏_@SyedDaiam-000?style=for-the-badge&logo=x&logoColor=39ff14&labelColor=000)](https://x.com/SyedDaiam)
 &nbsp;
-<a href="mailto:smdaiam616@gmail.com">
-  <img src="https://img.shields.io/badge/smdaiam616@gmail.com-0a0a0f?style=for-the-badge&logo=gmail&logoColor=e0d7ff&labelColor=1a0533" />
-</a>
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000)](mailto:smdaiam616@gmail.com)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SyedDaiam9101&style=for-the-badge&color=2d1b69&label=VIEWS&labelColor=1a0533" />
+<img src="https://komarev.com/ghpvc/?username=SyedDaiam9101&style=for-the-badge&color=003d00&label=VIEWS&labelColor=000" />
 
 </div>
 
@@ -24,147 +20,121 @@
 
 ---
 
-## `$ whoami`
-
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=SyedDaiam9101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=prs&title_color=9d87d4&icon_color=9d87d4&bg_color=0d0d17&text_color=c9c0e8" />
-
-Most people *discover* code.
-
-I **collided** with it.
-
-At 14, while most people my age are figuring out what they want to be — I'm implementing **Zero-Knowledge Proofs** in Rust, building **gRPC microservices** in Go for robotics, shipping **production computer vision** pipelines, and writing AI agents that actually work.
-
-Not hobby projects. Not tutorials. **Production-grade systems.**
-
-I don't have a degree. I have GitHub commits.
-And I think that's exactly the point.
-
-<br/>
-
-> 📍 Karachi, Pakistan &nbsp;·&nbsp; 🎯 Currently: **Focused, building.** &nbsp;·&nbsp; 📡 Open to: **collabs & ambitious ideas**
-
-<br clear="right"/>
-
----
-
-## ⚡ Currently
-
-| | What |
-|---|---|
-| 🔨 **Shipping** | Pushing all 4 projects toward production quality |
-| 📖 **Learning** | Advanced cryptography · Distributed systems · Low-level Rust |
-| 🧠 **Obsessing over** | Privacy-preserving computation & agentic AI |
-| 🌍 **Building toward** | Systems that matter at scale |
-
----
-
-## 🏗 The Work
-
-> Every project here is above my grade level. That's the point.
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔐 privacy-health-ledger</h3>
-
-**The problem:** Medical researchers need to run analytics on sensitive patient data — but accessing that data violates privacy.
-
-**The solution:** Zero-Knowledge Proofs. Verify the *result* of a computation without ever seeing the underlying records.
-
-**Built from scratch in Rust.** This is the kind of system hospitals should be running.
-
-<br/>
-
-`Rust` `Zero-Knowledge Proofs` `Cryptography` `Healthcare`
-
-<a href="https://github.com/SyedDaiam9101/privacy-health-ledger">**→ Explore the repo**</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🦾 policy-services</h3>
-
-**The problem:** Robot path planning is computationally expensive. Naive implementations don't scale.
-
-**The solution:** A high-performance **gRPC microservice** with ONNX-Runtime inference — separating the planning logic from the rest of the system, making it fast, stateless, and composable.
-
-<br/>
-
-`Go` `gRPC` `ONNX Runtime` `Robotics` `Microservices`
-
-<a href="https://github.com/SyedDaiam9101/policy-services">**→ Explore the repo**</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎯 Fairlens</h3>
-
-Not another "I trained YOLO on a dataset" project.
-
-Fairlens is a **complete production system** — YOLOv8 detection, FastAPI backend, live webcam streaming, SQLAlchemy ORM with PostgreSQL/SQLite, and a REST API you can actually deploy.
-
-`Python` `YOLOv8` `FastAPI` `Computer Vision` `PostgreSQL`
-
-<a href="https://github.com/SyedDaiam9101/Fairlens">**→ Explore the repo**</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🤖 A.D.A &nbsp; ⭐ 14</h3>
-
-My most-starred project. An intelligent Python-based AI agent with a community that found it before I even promoted it.
-
-The work speaks.
-
-`Python` `AI` `Agents`
-
-<a href="https://github.com/SyedDaiam9101/A.D.A">**→ Explore the repo**</a>
-
----
-
-<h3>🔭 What's next?</h3>
-
-Follow the build →  **[@SyedDaiam](https://x.com/SyedDaiam)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 💭 How I Think
-
 ```
-"Complexity is a feature — if the problem were easy, someone already solved it."
-
-"Build above your level. Always be slightly out of your depth.
- That's not discomfort. That's growth."
-
-"Age is metadata. Code either works or it doesn't."
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   $ neofetch --user daiam                                            │
+│                                                                      │
+│   ██████╗  █████╗ ██╗ █████╗ ███╗   ███╗        daiam@karachi       │
+│   ██╔══██╗██╔══██╗██║██╔══██╗████╗ ████║        ────────────────    │
+│   ██║  ██║███████║██║███████║██╔████╔██║        OS: Human 14.0 LTS  │
+│   ██║  ██║██╔══██║██║██╔══██║██║╚██╔╝██║        Location: Karachi   │
+│   ██████╔╝██║  ██║██║██║  ██║██║ ╚═╝ ██║        Shell: python/rust  │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        Uptime: 14 years   │
+│                                                  Focus: AI + Privacy │
+│                                                  RAM: max            │
+│                                                  Status: BUILDING 🟢 │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠 Stack
+```bash
+$ whoami
 
-```python
-class Daiam:
-    age         = 14
-    location    = "Karachi, Pakistan 🇵🇰"
-    languages   = ["Python", "Rust", "Go", "C++"]
-    ai_ml       = ["YOLOv8", "ONNX Runtime", "FastAPI", "ML Pipelines", "AI Agents"]
-    systems     = ["gRPC", "Microservices", "ZK Proofs", "ESP32", "IoT"]
-    tools       = ["Docker", "Linux", "PostgreSQL", "SQLite", "Git"]
-    philosophy  = "Ship real things. Learn by building above your level."
-    status      = "🟢 Online — always building something."
+  High school freshman. 14 years old. Karachi, Pakistan.
+  No CS degree. No university. Just GitHub commits and stubbornness.
+
+  I implement Zero-Knowledge Proofs in Rust.
+  I build gRPC microservices in Go for robot path planning.
+  I ship production computer vision systems with YOLOv8.
+  I write AI agents that actually work.
+
+  Not for school. Not for a grade. Because I can't stop.
+```
+
+---
+
+```bash
+$ ls -la ~/projects/
+
+drwxr-xr-x  🔐  privacy-health-ledger  ──  Rust · ZK Proofs · Cryptography
+drwxr-xr-x  🦾  policy-services        ──  Go · gRPC · ONNX · Robotics
+drwxr-xr-x  🎯  Fairlens               ──  Python · YOLOv8 · FastAPI · PostgreSQL
+drwxr-xr-x  🤖  A.D.A                  ──  Python · AI Agents                ⭐ 14
 ```
 
 <br/>
+
+<details>
+<summary><code>$ cat projects/privacy-health-ledger/README.excerpt</code></summary>
+<br/>
+
+> Researchers need to run analytics on sensitive health records — but accessing those records violates patient privacy. **Zero-Knowledge Proofs** solve this: verify that a computation was done correctly, without ever seeing the underlying data. Built in **Rust** from the ground up. The kind of system hospitals should actually be running.
+
+`Rust` `ZK Proofs` `Cryptography` `Privacy` → [**Open Repo**](https://github.com/SyedDaiam9101/privacy-health-ledger)
+
+</details>
+
+<details>
+<summary><code>$ cat projects/policy-services/README.excerpt</code></summary>
+<br/>
+
+> Robot path planning is computationally expensive and slow when done naively. This is a high-performance **gRPC microservice** that isolates the planning logic — stateless, composable, and fast. ONNX-Runtime inference at the core. Built in **Go**.
+
+`Go` `gRPC` `ONNX Runtime` `Microservices` `Robotics` → [**Open Repo**](https://github.com/SyedDaiam9101/policy-services)
+
+</details>
+
+<details>
+<summary><code>$ cat projects/Fairlens/README.excerpt</code></summary>
+<br/>
+
+> Not another "I ran YOLOv8 on a dataset" tutorial project. Fairlens is a full **production system** — real-time object detection, live webcam streaming, FastAPI REST backend, SQLAlchemy ORM with PostgreSQL and SQLite support. You can actually deploy this.
+
+`Python` `YOLOv8` `FastAPI` `Computer Vision` `PostgreSQL` → [**Open Repo**](https://github.com/SyedDaiam9101/Fairlens)
+
+</details>
+
+<details>
+<summary><code>$ cat projects/A.D.A/README.excerpt</code></summary>
+<br/>
+
+> My most-starred project — found by the community before I even promoted it. An intelligent Python-based AI agent. The work speaks.
+
+`Python` `AI` `Agents` → [**Open Repo ⭐ 14**](https://github.com/SyedDaiam9101/A.D.A)
+
+</details>
+
+---
+
+```bash
+$ cat manifesto.txt
+
+  [1]  The code doesn't care how old you are.
+       It compiles or it doesn't.
+
+  [2]  Always build one level above your current ability.
+       Comfort is the enemy of growth.
+
+  [3]  Ship in public. Fail in public. Win in public.
+       The only audience that matters is future you.
+```
+
+---
+
+```bash
+$ cat stack.py
+
+stack = {
+    "languages" : ["Python", "Rust", "Go", "C++"],
+    "ai_ml"     : ["YOLOv8", "ONNX Runtime", "FastAPI", "ML Pipelines", "Agents"],
+    "systems"   : ["gRPC", "Microservices", "ZK Proofs", "ESP32", "IoT"],
+    "tools"     : ["Docker", "Linux", "PostgreSQL", "SQLite", "Git"],
+    "learning"  : ["Advanced Cryptography", "Distributed Systems", "Low-level Rust"],
+}
+```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,fastapi,pytorch,postgres,docker,linux,git&theme=dark&perline=10" />
@@ -172,31 +142,31 @@ class Daiam:
 
 ---
 
-## 📊 Stats
+```bash
+$ htop  # GitHub stats
+```
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedDaiam9101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9d87d4&bg_color=0d0d17&text_color=c9c0e8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SyedDaiam9101&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&rank_icon=github&hide=prs&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=00cc44" />
 &nbsp;
-<img height="185" src="https://streak-stats.demolab.com?user=SyedDaiam9101&theme=tokyonight&hide_border=true&background=0d0d17&ring=9d87d4&fire=c084fc&currStreakLabel=9d87d4&sideLabels=9d87d4&dates=6b7280" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedDaiam9101&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=000000&title_color=39ff14&text_color=00cc44" />
 
-<br/><br/>
+<br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedDaiam9101&theme=tokyo-night&hide_border=true&bg_color=0d0d17&color=9d87d4&line=7c3aed&point=e0d7ff&area=true&area_color=2d1b69" />
+<img src="https://streak-stats.demolab.com?user=SyedDaiam9101&theme=chartreuse-dark&hide_border=true&background=000000&ring=39ff14&fire=00ff88&currStreakLabel=39ff14&sideLabels=00cc44&dates=006600" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedDaiam9101&theme=high-contrast&hide_border=true&bg_color=000000&color=39ff14&line=00cc44&point=39ff14&area=true&area_color=003300" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=SyedDaiam9101&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7&title_color=9d87d4" />
-</div>
-
----
-
-## 🐍 Commit Snake
+```bash
+$ ./snake --render contributions
+```
 
 <div align="center">
 <img width="96%" src="https://raw.githubusercontent.com/SyedDaiam9101/SyedDaiam9101/output/github-contribution-grid-snake-dark.svg" />
@@ -204,19 +174,22 @@ class Daiam:
 
 ---
 
+```bash
+$ echo "You found this early."
+You found this early.
+
+$ echo "Remember that."
+Remember that.
+
+$ █
+```
+
+<br/>
+
 <div align="center">
-
-<br/>
-
-### One day you'll read about what I'm building in a TechCrunch article.
-### For now — you're early.
-
-<br/>
-
-*`Karachi → Everywhere.`*
-
-<br/>
-
+<sub>Karachi → Everywhere &nbsp;·&nbsp; <a href="https://x.com/SyedDaiam">Follow the build @SyedDaiam</a></sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,70:2d1b69,100:0a0a0f&height=140&section=footer&reversal=false" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001a00,100:000000&height=120&section=footer&reversal=true" />
