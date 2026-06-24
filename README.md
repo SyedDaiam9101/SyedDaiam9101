@@ -1,6 +1,5 @@
 # Daiam · Systems & AI Engineer
 
-[![X](https://img.shields.io/badge/@SyedDaiam-black?style=flat-square&logo=x&logoColor=white)](https://x.com/SyedDaiam)
 [![Email](https://img.shields.io/badge/smdaiam616@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:smdaiam616@gmail.com)
 ![Location](https://img.shields.io/badge/Karachi,_Pakistan-black?style=flat-square)
 ![Age](https://img.shields.io/badge/14_years_old-black?style=flat-square)
